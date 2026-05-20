@@ -15,7 +15,7 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
 
-## 👩‍💻 Introduction
+# 👩‍💻 Introduction
 <b>
 💻 Full-Stack Developer & QA Automation Enthusiast: Passionate about building scalable web applications, automation solutions, and enterprise billing systems using modern technologies.
 
@@ -34,12 +34,10 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
 💻 Languages
 Java | Python | Angular | React | JavaScript | TypeScript | SQL| C# | C++ | HTML5 | CSS3 | Selenium | Postman | Git | Jenkins | AWS
-
-# 💻 Languages
 
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="35"/> Java &nbsp;&nbsp;
@@ -53,7 +51,6 @@ Java | Python | Angular | React | JavaScript | TypeScript | SQL| C# | C++ | HTML
 </p>
 
 ---
-
 
 🏢 Oracle Utilities / ORMB
 ORMB | OUAF | Business Objects | Algorithms | Change Handlers | Service Scripts | Batch Jobs | UI Maps | Feature Configuration | Portals | Zones | Derived Zones
@@ -149,7 +146,7 @@ AWS Cloud Practitioner (Beginner Level)
 
 ---
 
-##  💼 Professional Experience
+# 💼 Professional Experience
 
 🏢 RIA Advisory LLC — Associate Consultant (ORMB)
 📅 July 2025 – Present
@@ -176,18 +173,19 @@ Worked with Oracle-based services and Spring Boot integrations.
 
 
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-#### Employee Skill Matrix
+<p>
+Employee Skill Matrix
 Built an Angular-based application to manage employee skills, forms, dashboard, filters, and status tracking.
-#### Banking Simulator
+Banking Simulator
 Developed a Java console-based banking application using OOP concepts for account management and transactions.
-#### Angular Projects
+Angular Projects
 Created responsive UI components using Angular, HTML, CSS, TypeScript, and Material Design.
+</p>
 
 
-
-## 🤝 Connect With Me
+# 🤝 Connect With Me
 
 LinkedIn: https://linkedin.com/in/vanamamulai-charishma-5a668117 
 
@@ -195,7 +193,7 @@ Email: vcharishma2@gmail.com
 
 
 
-## ✨ Fun Fact
+# ✨ Fun Fact
 
 Always learning, building, and improving.
 I enjoy combining development, ORMB customization, automation testing, and cloud technologies to build reliable enterprise applications.
