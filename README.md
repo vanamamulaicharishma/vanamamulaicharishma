@@ -50,8 +50,6 @@ Java | Python | Angular | React | JavaScript | TypeScript | SQL| C# | C++ | HTML
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35"/> CSS3
 </p>
 
----
-
 🏢 Oracle Utilities / ORMB
 ORMB | OUAF | Business Objects | Algorithms | Change Handlers | Service Scripts | Batch Jobs | UI Maps | Feature Configuration | Portals | Zones | Derived Zones
 
@@ -69,10 +67,7 @@ ORMB | OUAF | Business Objects | Algorithms | Change Handlers | Service Scripts 
 🔹 Portals &nbsp;&nbsp;
 🔹 Zones &nbsp;&nbsp;
 🔹 Derived Zones
-
 </p>
-
----
 
 🌐 Front-End
 Angular | React.js | Next.js | Bootstrap | Responsive Web Design
@@ -84,8 +79,6 @@ Angular | React.js | Next.js | Bootstrap | Responsive Web Design
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="35"/> Bootstrap
 </p>
 
----
-
 ⚙️ Back-End
 ASP.NET Core | Node.js | Spring Boot | REST APIs
 
@@ -95,8 +88,6 @@ ASP.NET Core | Node.js | Spring Boot | REST APIs
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="35"/> Spring Boot &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="35"/> REST APIs
 </p>
-
----
 
 🗄 Databases
 Oracle | MySQL | MongoDB | SQL Server
@@ -108,8 +99,6 @@ Oracle | MySQL | MongoDB | SQL Server
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="35"/> SQL Server
 </p>
 
----
-
 🧪 Testing & QA
 Selenium | Postman | Jasmine | Karma | API Testing | UI Automation | Batch Validation
 
@@ -119,8 +108,6 @@ Selenium | Postman | Jasmine | Karma | API Testing | UI Automation | Batch Valid
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35"/> Jasmine &nbsp;&nbsp;
 <img src="https://karma-runner.github.io/assets/img/banner.png" width="60"/> Karma
 </p>
-
----
 
 🛠 Tools & DevOps
 Git | Bitbucket | GitHub | Jira | Jenkins | Docker | VS Code
@@ -134,8 +121,6 @@ Git | Bitbucket | GitHub | Jira | Jenkins | Docker | VS Code
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="35"/> VS Code &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" width="35"/> Bitbucket
 </p>
-
----
 
 ☁️ Cloud
 AWS Cloud Practitioner (Beginner Level)
