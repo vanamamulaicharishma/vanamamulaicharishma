@@ -10,6 +10,18 @@ Passionate about ORMB, Full Stack Development, Automation Testing, and Cloud Tec
 
 ---
 
+<div align="center">
+
+# Charishma Vanamamulai
+
+### Associate Consultant | ORMB Developer | Full Stack Developer | QA Automation Engineer
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Building+Scalable+Applications;ORMB+Developer;Full+Stack+Developer;QA+Automation+Engineer;Learning+Cloud+%26+DevOps" />
+
+</div>
+
+---
+
 <img align="right" alt="coding" width="350"
 src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
