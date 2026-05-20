@@ -1,4 +1,17 @@
-# Hi, I'm Charishma Vanamamulai 👋
+<h1 align="center">Hi 👋, I'm Charishma Vanamamulai</h1>
+
+<h3 align="center">
+Associate Consultant | ORMB Developer | Full Stack Developer | QA Automation Engineer
+</h3>
+
+<p align="center">
+Passionate about ORMB, Full Stack Development, Automation Testing, and Cloud Technologies 🚀
+</p>
+
+---
+
+<img align="right" alt="coding" width="350"
+src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ## 👩‍💻 Introduction
 Full Stack Developer and QA Automation Engineer with experience in Java, Angular, Selenium, SQL, REST APIs, and cloud-based applications. Currently working as an Associate Consultant on Oracle Revenue Management and Billing (ORMB) implementations for enterprise clients, supporting billing, membership, and financial transaction systems.
@@ -46,7 +59,7 @@ Git | Bitbucket | GitHub | Jira | Jenkins | Docker | VS Code
 AWS Cloud Practitioner (Beginner Level)
 
 
-💼 Professional Experience
+##  💼 Professional Experience
 
 🏢 RIA Advisory LLC — Associate Consultant (ORMB)
 📅 July 2025 – Present
