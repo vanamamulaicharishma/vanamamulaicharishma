@@ -7,12 +7,13 @@
 
 </div>
 
-</div>
 
 ---
 
 <img align="right" alt="coding" width="350"
 src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+
 
 ## 👩‍💻 Introduction
 
@@ -29,6 +30,7 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 🎯 Goal: To build intelligent, scalable, and high-quality software solutions that combine innovation, automation, and real-world impact.
 
 📬 Reach me: vcharishma2@gmail.com
+
 
 
 ## 🛠 Tech Stack
@@ -58,6 +60,7 @@ Git | Bitbucket | GitHub | Jira | Jenkins | Docker | VS Code
 AWS Cloud Practitioner (Beginner Level)
 
 
+
 ##  💼 Professional Experience
 
 🏢 RIA Advisory LLC — Associate Consultant (ORMB)
@@ -84,6 +87,7 @@ Assisted in technical documentation and student tutoring.
 Worked with Oracle-based services and Spring Boot integrations.
 
 
+
 ## 🚀 Featured Projects
 
 ### Employee Skill Matrix
@@ -94,6 +98,7 @@ Developed a Java console-based banking application using OOP concepts for accoun
 Created responsive UI components using Angular, HTML, CSS, TypeScript, and Material Design.
 
 
+
 ## 🤝 Connect With Me
 
 LinkedIn: https://linkedin.com/in/vanamamulai-charishma-5a668117 
@@ -101,8 +106,10 @@ LinkedIn: https://linkedin.com/in/vanamamulai-charishma-5a668117
 Email: vcharishma2@gmail.com
 
 
+
 ## ✨ Fun Fact
 
 Always learning, building, and improving.
 I enjoy combining development, ORMB customization, automation testing, and cloud technologies to build reliable enterprise applications.
+
 
