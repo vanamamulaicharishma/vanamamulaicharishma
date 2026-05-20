@@ -16,7 +16,7 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
 # 👩‍💻 Introduction
-<b>
+
 💻 Full-Stack Developer & QA Automation Enthusiast: Passionate about building scalable web applications, automation solutions, and enterprise billing systems using modern technologies.
 
 ⚙️ ORMB Associate Consultant: Currently working on Oracle Revenue Management and Billing (ORMB) implementations, supporting billing, membership, financial transactions, and enterprise workflow solutions.
@@ -30,13 +30,11 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 🎯 Goal: To build intelligent, scalable, and high-quality software solutions that combine innovation, automation, and real-world impact.
 
 📬 Reach me: vcharishma2@gmail.com
-</sub>
-
 
 
 # 🛠 Tech Stack
 
-💻 Languages
+### 💻 Languages
 Java | Python | Angular | React | JavaScript | TypeScript | SQL| C# | C++ | HTML5 | CSS3 | Selenium | Postman | Git | Jenkins | AWS
 
 <p align="left">
@@ -50,7 +48,7 @@ Java | Python | Angular | React | JavaScript | TypeScript | SQL| C# | C++ | HTML
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35"/> CSS3
 </p>
 
-🏢 Oracle Utilities / ORMB
+### 🏢 Oracle Utilities / ORMB
 ORMB | OUAF | Business Objects | Algorithms | Change Handlers | Service Scripts | Batch Jobs | UI Maps | Feature Configuration | Portals | Zones | Derived Zones
 
 <p align="left">
@@ -69,7 +67,7 @@ ORMB | OUAF | Business Objects | Algorithms | Change Handlers | Service Scripts 
 🔹 Derived Zones
 </p>
 
-🌐 Front-End
+### 🌐 Front-End
 Angular | React.js | Next.js | Bootstrap | Responsive Web Design
 
 <p align="left">
@@ -79,7 +77,7 @@ Angular | React.js | Next.js | Bootstrap | Responsive Web Design
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="35"/> Bootstrap
 </p>
 
-⚙️ Back-End
+### ⚙️ Back-End
 ASP.NET Core | Node.js | Spring Boot | REST APIs
 
 <p align="left">
@@ -89,7 +87,7 @@ ASP.NET Core | Node.js | Spring Boot | REST APIs
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="35"/> REST APIs
 </p>
 
-🗄 Databases
+### 🗄 Databases
 Oracle | MySQL | MongoDB | SQL Server
 
 <p align="left">
@@ -99,7 +97,7 @@ Oracle | MySQL | MongoDB | SQL Server
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="35"/> SQL Server
 </p>
 
-🧪 Testing & QA
+### 🧪 Testing & QA
 Selenium | Postman | Jasmine | Karma | API Testing | UI Automation | Batch Validation
 
 <p align="left">
@@ -109,7 +107,7 @@ Selenium | Postman | Jasmine | Karma | API Testing | UI Automation | Batch Valid
 <img src="https://karma-runner.github.io/assets/img/banner.png" width="60"/> Karma
 </p>
 
-🛠 Tools & DevOps
+### 🛠 Tools & DevOps
 Git | Bitbucket | GitHub | Jira | Jenkins | Docker | VS Code
 
 <p align="left">
@@ -122,14 +120,12 @@ Git | Bitbucket | GitHub | Jira | Jenkins | Docker | VS Code
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" width="35"/> Bitbucket
 </p>
 
-☁️ Cloud
+### ☁️ Cloud
 AWS Cloud Practitioner (Beginner Level)
 
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55"/> AWS Cloud Practitioner
 </p>
-
----
 
 # 💼 Professional Experience
 
@@ -159,7 +155,6 @@ Worked with Oracle-based services and Spring Boot integrations.
 
 
 # 🚀 Featured Projects
-
 
 #### Employee Skill Matrix
 Built an Angular-based application to manage employee skills, forms, dashboard, filters, and status tracking.
