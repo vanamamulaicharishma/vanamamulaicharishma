@@ -34,18 +34,25 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 💻 Languages
 Java | Python | Angular | React | JavaScript | TypeScript | SQL| C# | C++ | HTML5 | CSS3 | Selenium | Postman | Git | Jenkins | AWS
+
 🏢 Oracle Utilities / ORMB
 ORMB | OUAF | Business Objects | Algorithms | Change Handlers | Service Scripts | Batch Jobs | UI Maps | Feature Configuration | Portals | Zones | Derived Zones
+
 🌐 Front-End
 Angular | React.js | Next.js | Bootstrap | Responsive Web Design
+
 ⚙️ Back-End
 ASP.NET Core | Node.js | Spring Boot | REST APIs
+
 🗄 Databases
 Oracle | MySQL | MongoDB | SQL Server
+
 🧪 Testing & QA
 Selenium | Postman | Jasmine | Karma | API Testing | UI Automation | Batch Validation
+
 🛠 Tools & DevOps
 Git | Bitbucket | GitHub | Jira | Jenkins | Docker | VS Code
+
 ☁️ Cloud
 AWS Cloud Practitioner (Beginner Level)
 
