@@ -175,14 +175,14 @@ Worked with Oracle-based services and Spring Boot integrations.
 
 # 🚀 Featured Projects
 
-<p>
-Employee Skill Matrix
+
+#### Employee Skill Matrix
 Built an Angular-based application to manage employee skills, forms, dashboard, filters, and status tracking.
-Banking Simulator
+#### Banking Simulator
 Developed a Java console-based banking application using OOP concepts for account management and transactions.
-Angular Projects
+#### Angular Projects
 Created responsive UI components using Angular, HTML, CSS, TypeScript, and Material Design.
-</p>
+
 
 
 # 🤝 Connect With Me
