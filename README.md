@@ -38,6 +38,64 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 💻 Languages
 Java | Python | Angular | React | JavaScript | TypeScript | SQL| C# | C++ | HTML5 | CSS3 | Selenium | Postman | Git | Jenkins | AWS
 
+<p align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" width="55" height="55"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="55" height="55"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" title="Angular" width="55" height="55"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" width="55" height="55"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="55" height="55"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" width="55" height="55"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" width="55" height="55"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" width="55" height="55"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="55" height="55"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="55" height="55"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" width="55" height="55"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js" width="55" height="55"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" width="55" height="55"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring Boot" width="55" height="55"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" title="ASP.NET Core" width="55" height="55"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="55" height="55"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" width="55" height="55"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" title="Oracle" width="55" height="55"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="55" height="55"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" width="55" height="55"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" width="55" height="55"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" title="Jenkins" width="55" height="55"/>
+
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" width="55" height="55"/>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" title="Selenium" width="55" height="55"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" width="70" height="55"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" width="55" height="55"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="Jira" width="55" height="55"/>
+
+</p>
+
 🏢 Oracle Utilities / ORMB
 ORMB | OUAF | Business Objects | Algorithms | Change Handlers | Service Scripts | Batch Jobs | UI Maps | Feature Configuration | Portals | Zones | Derived Zones
 
@@ -90,11 +148,11 @@ Worked with Oracle-based services and Spring Boot integrations.
 
 ## 🚀 Featured Projects
 
-### Employee Skill Matrix
+#### Employee Skill Matrix
 Built an Angular-based application to manage employee skills, forms, dashboard, filters, and status tracking.
-### Banking Simulator
+#### Banking Simulator
 Developed a Java console-based banking application using OOP concepts for account management and transactions.
-### Angular Projects
+#### Angular Projects
 Created responsive UI components using Angular, HTML, CSS, TypeScript, and Material Design.
 
 
