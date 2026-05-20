@@ -16,7 +16,7 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
 ## 👩‍💻 Introduction
-
+<b>
 💻 Full-Stack Developer & QA Automation Enthusiast: Passionate about building scalable web applications, automation solutions, and enterprise billing systems using modern technologies.
 
 ⚙️ ORMB Associate Consultant: Currently working on Oracle Revenue Management and Billing (ORMB) implementations, supporting billing, membership, financial transactions, and enterprise workflow solutions.
@@ -30,6 +30,7 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 🎯 Goal: To build intelligent, scalable, and high-quality software solutions that combine innovation, automation, and real-world impact.
 
 📬 Reach me: vcharishma2@gmail.com
+/<sub>
 
 
 
