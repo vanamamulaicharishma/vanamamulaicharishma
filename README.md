@@ -14,40 +14,38 @@ Passionate about ORMB, Full Stack Development, Automation Testing, and Cloud Tec
 src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ## 👩‍💻 Introduction
-Full Stack Developer and QA Automation Engineer with experience in Java, Angular, Selenium, SQL, REST APIs, and cloud-based applications. Currently working as an Associate Consultant on Oracle Revenue Management and Billing (ORMB) implementations for enterprise clients, supporting billing, membership, and financial transaction systems.
 
-I have hands-on experience in:
+💻 Full-Stack Developer & QA Automation Enthusiast: Passionate about building scalable web applications, automation solutions, and enterprise billing systems using modern technologies.
 
-ORMB customization and configuration
-Java-based algorithms and batch jobs
-Front-end and full-stack web development
-API testing and automation
-SQL data validation and Agile delivery environments
+⚙️ ORMB Associate Consultant: Currently working on Oracle Revenue Management and Billing (ORMB) implementations, supporting billing, membership, financial transactions, and enterprise workflow solutions.
 
-I enjoy building scalable applications, learning new technologies, web applications, automating test cases, learning new technologies and solving real-world business problems through technology.
+🧪 Automation & Testing Explorer: Experienced in Selenium, Postman, API testing, SQL validation, batch testing, and ensuring reliable application delivery in Agile environments.
+
+🌐 Front-End & Back-End Learner: Skilled in Java, Angular, React, REST APIs, SQL, and cloud-based applications, with growing expertise in full-stack and enterprise system development.
+
+🚀 Technology Enthusiast: I enjoy learning new technologies, developing responsive web applications, automating test cases, and solving real-world business problems through technology.
+
+🎯 Goal: To build intelligent, scalable, and high-quality software solutions that combine innovation, automation, and real-world impact.
+
+📬 Reach me: vcharishma2@gmail.com
+
 
 ## 🛠 Tech Stack
+
 💻 Languages
 Java | Python | Angular | React | JavaScript | TypeScript | SQL| C# | C++ | HTML5 | CSS3 | Selenium | Postman | Git | Jenkins | AWS
-
 🏢 Oracle Utilities / ORMB
 ORMB | OUAF | Business Objects | Algorithms | Change Handlers | Service Scripts | Batch Jobs | UI Maps | Feature Configuration | Portals | Zones | Derived Zones
-
 🌐 Front-End
 Angular | React.js | Next.js | Bootstrap | Responsive Web Design
-
 ⚙️ Back-End
 ASP.NET Core | Node.js | Spring Boot | REST APIs
-
 🗄 Databases
 Oracle | MySQL | MongoDB | SQL Server
-
 🧪 Testing & QA
 Selenium | Postman | Jasmine | Karma | API Testing | UI Automation | Batch Validation
-
 🛠 Tools & DevOps
 Git | Bitbucket | GitHub | Jira | Jenkins | Docker | VS Code
-
 ☁️ Cloud
 AWS Cloud Practitioner (Beginner Level)
 
@@ -77,6 +75,7 @@ Contributed to the Employee Skill Matrix application.
 Assisted in technical documentation and student tutoring.
 Worked with Oracle-based services and Spring Boot integrations.
 
+
 ## 🚀 Featured Projects
 
 ### Employee Skill Matrix
@@ -86,11 +85,16 @@ Developed a Java console-based banking application using OOP concepts for accoun
 ### Angular Projects
 Created responsive UI components using Angular, HTML, CSS, TypeScript, and Material Design.
 
+
 ## 🤝 Connect With Me
+
 LinkedIn: https://linkedin.com/in/vanamamulai-charishma-5a668117 
+
 Email: vcharishma2@gmail.com
 
+
 ## ✨ Fun Fact
+
 Always learning, building, and improving.
 I enjoy combining development, ORMB customization, automation testing, and cloud technologies to build reliable enterprise applications.
 
