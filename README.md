@@ -1,14 +1,3 @@
-<h1 align="center">Hi 👋, I'm Charishma Vanamamulai</h1>
-
-<h3 align="center">
-Associate Consultant | ORMB Developer | Full Stack Developer | QA Automation Engineer
-</h3>
-
-<p align="center">
-Passionate about ORMB, Full Stack Development, Automation Testing, and Cloud Technologies 🚀
-</p>
-
----
 
 <div align="center">
 
@@ -17,6 +6,14 @@ Passionate about ORMB, Full Stack Development, Automation Testing, and Cloud Tec
 ### Associate Consultant | ORMB Developer | Full Stack Developer | QA Automation Engineer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Building+Scalable+Applications;ORMB+Developer;Full+Stack+Developer;QA+Automation+Engineer;Learning+Cloud+%26+DevOps" />
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=260&section=header&text=Charishma%20Vanamamulai&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Associate%20Consultant%20|%20ORMB%20Developer%20|%20Full%20Stack%20Developer%20|%20QA%20Automation%20Engineer&descAlignY=60&descSize=20" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+Scalable+Enterprise+Applications;ORMB+Developer+%7C+Full+Stack+Engineer;Passionate+About+Automation+%26+Cloud;Java+%7C+Angular+%7C+Selenium+%7C+SQL;Learning+AI+%26+Modern+Technologies" />
+
+</div>
 
 </div>
 
