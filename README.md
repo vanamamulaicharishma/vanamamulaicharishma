@@ -30,7 +30,7 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 🎯 Goal: To build intelligent, scalable, and high-quality software solutions that combine innovation, automation, and real-world impact.
 
 📬 Reach me: vcharishma2@gmail.com
-/<sub>
+</sub>
 
 
 
